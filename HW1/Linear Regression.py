@@ -1,6 +1,8 @@
 # James Ho
 # CISC:Data Mining
 # HW#1
+import numpy as np
+import pandas as pd
 
 #Normal Equation to calculate beta values
 def get_betas(X,y):
